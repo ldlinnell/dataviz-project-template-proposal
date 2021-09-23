@@ -2,39 +2,26 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is the UN data showing intentional homicides by either males or females across the globe over certain years. 
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
-
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+I’ve created a proof of concept visualization of this data. It's a scatterplot and it shows the number of homicides per year. However, it doesn't show per male and female, or per country.
+[![image](https://user-images.githubusercontent.com/85960143/134442128-e7a4113f-f26f-4e33-ab55-b29fbc6065e2.png)](https://vizhub.com/ldlinnell/60291a2c7fbe4bad98417be425f04362)
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Question 1: How many intentional homicides have been committed against males versus females per each country?
+ * Question 2: Does this imply that certain countries there is more deadly violence against women? If so, Which?
+ * Question 3: Do the homicide rates change per year? 
 
 ## Sketches
+[![image](https://user-images.githubusercontent.com/85960143/134443192-fee2e59d-b0e0-4e5d-bd69-84579302c547.png)
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+This is my main sketch, it shows two different sets of circles, blue and pink for males and females respectively, of different sizes to show the amount of homicides in the area of the circle, so the country. The orange bar at the bottom is a timeline the you should be able to scroll through, however given I only have the data for 2005, 2010, and 2017, maybe three separate interactive tabs would be better.The circles of different colors easily show violence against women versus men in one set country, if the pink circle is bigger on that country, then there have been more intentional murders of women than men. While showing the number of homicides of both males and females with both colored circles. Having the tabs (or timeline) helps answer the question, does it change per year? Maybe also, I could add a clickable interaction on each circle to show the exact numbers (or hover mechanic). 
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I have lot of doubts, personally, coding isn't always my strong suit. Specifically, I'm worried about not being able to handle the interactive aspects by myself. I have also been struggling with having vizhub understand my categorical data - such as country. So most of my fear comes from my lack of faith in my own knowledge and ability.
