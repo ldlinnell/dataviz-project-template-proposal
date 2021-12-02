@@ -10,7 +10,7 @@ I’ve created a proof of concept visualization of this data. It's a scatterplot
 [![image](https://user-images.githubusercontent.com/85960143/134442128-e7a4113f-f26f-4e33-ab55-b29fbc6065e2.png)](https://vizhub.com/ldlinnell/60291a2c7fbe4bad98417be425f04362)
 
 My first attempt to add my data into the worldmap, after adding latitude and longitude and adjusting ratio size.
-(<img width="1438" alt="Screen Shot 2021-12-01 at 10 26 35 PM" src="https://user-images.githubusercontent.com/85960143/144352454-8471545b-b6f8-486a-9fc1-487b75566f43.png">](https://vizhub.com/ldlinnell/9a2c527611fe443481d3fa9c39236568?edit=files&file=index.js&mode=full)
+[![image](<img width="1438" alt="Screen Shot 2021-12-01 at 10 26 35 PM" src="https://user-images.githubusercontent.com/85960143/144352454-8471545b-b6f8-486a-9fc1-487b75566f43.png">](https://vizhub.com/ldlinnell/9a2c527611fe443481d3fa9c39236568?edit=files&file=index.js&mode=full)
 
 
 ## Questions & Tasks
