@@ -29,18 +29,18 @@ This is my main sketch, it shows two different sets of circles, blue and pink fo
 ## Schedule of Deliverables
   The following is a breakdown of tasks I need to complete to achieve my dream of this project:
    
-   *Task 1: Fork a viz to a world map - Early October - Done
-    **Try entering my data from my gist - Early October - Done
-   *Task 2: Fix dataset! (vizhub struggles to read my data) - Early November
-    **Enter Latitude and longitudes for each country - Done
-    **Organize by gender/sex
-    **Organize by crime type
-   *Task 3: Add dots onto the world map - Early November -Done
-    **Purple for total
-   *Task 4: Apply a interaction or menu to separate men, women, total, and years - End of November 
-    **People should be able to switch between the map showing pink dots for female, blue dots for males, and purple dots for totals.
-    **Either add interaction to switch between year, or display only the most recent data (2017)
-   *Task 5: Apply a hover interaction to show a pop up window that displays crime type statistics(?) or focus on intentional homicides? Or have people select crime type and display those dots. - Early December
+   * Task 1: Fork a viz to a world map - Early October - Done
+    ** Try entering my data from my gist - Early October - Done
+   * Task 2: Fix dataset! (vizhub struggles to read my data) - Early November
+    ** Enter Latitude and longitudes for each country - Done
+    ** Organize by gender/sex
+    ** Organize by crime type
+   * Task 3: Add dots onto the world map - Early November -Done
+    ** Purple for total
+   * Task 4: Apply a interaction or menu to separate men, women, total, and years - End of November 
+    ** People should be able to switch between the map showing pink dots for female, blue dots for males, and purple dots for totals.
+    ** Either add interaction to switch between year, or display only the most recent data (2017)
+   * Task 5: Apply a hover interaction to show a pop up window that displays crime type statistics(?) or focus on intentional homicides? Or have people select crime type and display those dots. - Early December
 
 ## Open Questions
 
