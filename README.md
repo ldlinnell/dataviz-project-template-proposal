@@ -18,13 +18,23 @@ My first attempt to add my data into the worldmap, after adding latitude and lon
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Question 1: How many intentional homicides have been committed against males versus females per each country?
- * Question 2: Does this imply that certain countries there is more deadly violence against women? If so, Which?
- * Question 3: Do the homicide rates change per year? 
+ * Question 2: How many crimes happen per country? What type of crime?
+ * Question 3: Does this imply that certain countries there is more violence against women? If so, Which?
+ * Question 4: Do the homicide rates change per year? - CHANGE - What are the most recent rates for each type of crime per country? 
 
 ## Sketches
 [![image](https://user-images.githubusercontent.com/85960143/134443192-fee2e59d-b0e0-4e5d-bd69-84579302c547.png)
 
 This is my main sketch, it shows two different sets of circles, blue and pink for males and females respectively, of different sizes to show the amount of homicides in the area of the circle, so the country. The orange bar at the bottom is a timeline the you should be able to scroll through, however given I only have the data for 2005, 2010, and 2017, maybe three separate interactive tabs would be better.The circles of different colors easily show violence against women versus men in one set country, if the pink circle is bigger on that country, then there have been more intentional murders of women than men. While showing the number of homicides of both males and females with both colored circles. Having the tabs (or timeline) helps answer the question, does it change per year? Maybe also, I could add a clickable interaction on each circle to show the exact numbers (or hover mechanic). 
+
+## Current Project Goal - Updated December 1st
+
+![Sketch of New Data Viz Goal](https://user-images.githubusercontent.com/85960143/144354510-4b04ebd1-951f-42ec-847e-42d4485c2edb.png)
+
+My current goal is to provide a viz that shows the world on a map, and has circles that show crime amount (via size of the dot) with many interactions. I expect to have a menu to switch the maps depending on crime type, as well as switch between male, female, and total (meaning total crime regardless of sex/gender). The circles should be different colors and I will show that on the menu to avoid confusing, for example pink circles for females, blue circles for male, purple circles for total, and then maybe a boldening of the crime type that they are viewing (or maybe a title that appears). This is currently very hopeful and may change.
+
+Sketch:
+
 
 ## Schedule of Deliverables
   The following is a breakdown of tasks I need to complete to achieve my dream of this project:
