@@ -1,8 +1,8 @@
 # Data Visualization Project
 
-## Data
+## Dataset
 
-The data I propose to visualize for my project is the UN data showing intentional homicides and other crimes by either males or females across the globe over certain years. 
+The [dataset](https://gist.github.com/ldlinnell/0d00bb3808e2cb97faf8e11c6d0e7ab6) I propose to visualize for my project is the UN data showing intentional homicides and other crimes by either males or females across the globe over certain years.
 
 ## Prototypes
 
