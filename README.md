@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The [dataset](https://gist.github.com/ldlinnell/0d00bb3808e2cb97faf8e11c6d0e7ab6) I propose to visualize for my project is the UN data showing intentional homicides and other crimes by either males or females across the globe over certain years.
+The [dataset](https://gist.github.com/ldlinnell/0d00bb3808e2cb97faf8e11c6d0e7ab6) I propose to visualize for my project is the UN data showing intentional homicides and other crimes by either males or females across the globe over certain years. This dataset was originally really disorganized, with some countries only reporting certain years and others not, some reporting some crimes and not others, a constant "according to 100,000 of the population" blocking the code from reading crime type and sex/gender. I've done a lot of work to go through this dataset and make it legible, including adding latitude and longitude and organizing by country, year, crime type, sex/gender, percentage of crimes. This has taken away a lot of time from my actual visualization itself, but overall these edits needed to happen in order to make vizhub able to read my data. 
 
 ## Prototypes
 
@@ -20,7 +20,7 @@ The following tasks and questions will drive the visualization and interaction d
  * Question 1: How many intentional homicides have been committed against males versus females per each country?
  * Question 2: How many crimes happen per country? What type of crime?
  * Question 3: Does this imply that certain countries there is more violence against women? If so, Which?
- * Question 4: Do the homicide rates change per year? - CHANGE - What are the most recent rates for each type of crime per country? 
+ * Question 4: Do the homicide rates change per year? - CHANGE - What are the rates for each type of crime per country in 2017 (the most recent year)? 
 
 ## Sketches
 [![image](https://user-images.githubusercontent.com/85960143/134443192-fee2e59d-b0e0-4e5d-bd69-84579302c547.png)
@@ -31,7 +31,7 @@ This is my main sketch, it shows two different sets of circles, blue and pink fo
 
 ![Sketch of New Data Viz Goal](https://user-images.githubusercontent.com/85960143/144354510-4b04ebd1-951f-42ec-847e-42d4485c2edb.png)
 
-My current goal is to provide a viz that shows the world on a map, and has circles that show crime amount (via size of the dot) with many interactions. I expect to have a menu to switch the maps depending on crime type, as well as switch between male, female, and total (meaning total crime regardless of sex/gender). The circles should be different colors and I will show that on the menu to avoid confusing, for example pink circles for females, blue circles for male, purple circles for total, and then maybe a boldening of the crime type that they are viewing (or maybe a title that appears). This is currently very hopeful and may change.
+My current goal is to provide a viz that shows the world on a map, and has circles that show crime amount (via size of the dot) with many interactions. I expect to have a menu to switch the maps depending on crime type, as well as switch between male, female, and total (meaning total crime regardless of sex/gender). The circles should be different colors and I will show that on the menu to avoid confusing, for example pink circles for females, blue circles for male, purple circles for total, and then maybe a boldening of the crime type that they are viewing (or maybe a title that appears). This is currently very hopeful and may change. I will focus on the most recent year given in the dataset, 2017.
 
 Sketch:
 
