@@ -4,6 +4,10 @@
 
 The [dataset](https://gist.github.com/ldlinnell/0d00bb3808e2cb97faf8e11c6d0e7ab6) I propose to visualize for my project is the UN data showing intentional homicides and other crimes by either males or females across the globe over certain years. This dataset was originally really disorganized, with some countries only reporting certain years and others not, some reporting some crimes and not others, a constant "according to 100,000 of the population" blocking the code from reading crime type and sex/gender. I've done a lot of work to go through this dataset and make it legible, including adding latitude and longitude and organizing by country, year, crime type, sex/gender, percentage of crimes. This has taken away a lot of time from my actual visualization itself, but overall these edits needed to happen in order to make vizhub able to read my data. 
 
+Here are the edits I made to my dataset, which is 3574 lines long (aka 3,574 lines to edit...) As you can see in the screen shot, I changed each line to the shorter earlier lines, where the original dataset looked like the longer later lines. 
+<img width="1254" alt="Proof of Data set change data viz" src="https://user-images.githubusercontent.com/85960143/145550005-a60ada64-73ff-4358-81f6-8ed68e6ddafe.png">
+
+
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a scatterplot and it shows the number of homicides per year. However, it doesn't show per male and female, or per country.
