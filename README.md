@@ -19,6 +19,9 @@ My first attempt to add my data into the worldmap, after adding latitude and lon
 My first attempt at adding a menu to allow people to select a crime type
 [![image]<img width="1434" alt="Screen Shot 2021-12-14 at 1 57 41 AM" src="https://user-images.githubusercontent.com/85960143/145948420-0635859f-72c6-4244-af22-2805904b9c24.png">](https://vizhub.com/ldlinnell/9a2c527611fe443481d3fa9c39236568?file=styles.css&mode=full)
 
+Adding two menus for both sex/gender and crime type (also some aesthetics)
+<img width="1439" alt="Screen Shot 2021-12-15 at 3 53 13 AM" src="https://user-images.githubusercontent.com/85960143/146154419-cdc0d4a3-8572-4738-b3ef-7437d21f1776.png">
+
 
 ## Questions & Tasks
 
